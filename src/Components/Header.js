@@ -6,7 +6,7 @@ import '../index.css'
 function Header() {
     return (
         <div className="background-img">
-            <Navbar />  
+            <Navbar />
         </div>
     )
 }
